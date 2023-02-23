@@ -1,4 +1,6 @@
 # Valorant Tetikliyicisi
+Yıldız Sayısına Göre Yayınlanacaktır.
+It will be published according to the number of stars
 
 ## Hakkında
 Hız için optimize edildiğinden ve yalnızca monitörünüzün yenileme hızıyla sınırlı olduğundan, botun tepki süresi son derece hızlıdır.
